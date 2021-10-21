@@ -14,7 +14,7 @@ module.exports = {
     // But you can create a sidebar manually
     /**/
     tutorialSidebar: [
-        '0.0 Preface',
+        'Preface',
         '1.1 Introduction',
         '2.2 Message Layout',
         '2.3 Standard Payloads Layout',
