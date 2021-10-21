@@ -4,7 +4,61 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb108c48-ec67-46d4-b546-012c04cf94c3" name="Changes" comment="Moved docs to base path&#10;Removed docusarus&#10;Updated sidebars.js" />
+    <list default="true" id="fb108c48-ec67-46d4-b546-012c04cf94c3" name="Changes" comment="Merge from main&#10;Moved images to top directory">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore copy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2 Message Layout.md" beforeDir="false" afterPath="$PROJECT_DIR$/2.2 Message Layout.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.3 Standard Payloads Layout.md" beforeDir="false" afterPath="$PROJECT_DIR$/2.3 Standard Payloads Layout.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.4 Data Flow.md" beforeDir="false" afterPath="$PROJECT_DIR$/2.4 Data Flow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.3 Peer Discovery.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.3 Peer Discovery.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.4 Neighbor Selection.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.4 Neighbor Selection.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.5 Manual Peering.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.5 Manual Peering.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.1 The Tangle.md" beforeDir="false" afterPath="$PROJECT_DIR$/4.1 The Tangle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.2 Timestamps.md" beforeDir="false" afterPath="$PROJECT_DIR$/4.2 Timestamps.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.3 Tip Selection Algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/4.3 Tip Selection Algorithm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.4 Solidification.md" beforeDir="false" afterPath="$PROJECT_DIR$/4.4 Solidification.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.5 Rate Control.md" beforeDir="false" afterPath="$PROJECT_DIR$/4.5 Rate Control.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.6 Congestion Control.md" beforeDir="false" afterPath="$PROJECT_DIR$/4.6 Congestion Control.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.7 Markers.md" beforeDir="false" afterPath="$PROJECT_DIR$/4.7 Markers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.1 UTXO.md" beforeDir="false" afterPath="$PROJECT_DIR$/5.1 UTXO.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.2 Ledger State.md" beforeDir="false" afterPath="$PROJECT_DIR$/5.2 Ledger State.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.3 Mana.md" beforeDir="false" afterPath="$PROJECT_DIR$/5.3 Mana.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.1 Objects Of Consensus.md" beforeDir="false" afterPath="$PROJECT_DIR$/6.1 Objects of Consensus.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.2 Opinion Setting.md" beforeDir="false" afterPath="$PROJECT_DIR$/6.2 Opinion Setting.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.3 Fast Probabilistic Consensus.md" beforeDir="false" afterPath="$PROJECT_DIR$/6.3 Fast Probabilistic Consensus.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.4 Finalization.md" beforeDir="false" afterPath="$PROJECT_DIR$/6.4 Finalization.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.5 dRNG.md" beforeDir="false" afterPath="$PROJECT_DIR$/6.5 dRNG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README-LocalDocsSite.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/.nojekyll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/bg-2ab9b09901d67717ad0179ee92d7a3c1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/bg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/logo/Coordicide_Logo_Black.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo/Coordicide_Logo_Black.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/logo/Logo_Swirl_Dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/logo/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/research-specifications/active-node-buffer-queue-overview.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/research-specifications/active-node-buffer-queue-overview.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/research-specifications/approval-weight.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/research-specifications/approval-weight.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/research-specifications/booker.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/research-specifications/booker.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/research-specifications/cmana.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/research-specifications/cmana.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/research-specifications/data-flow-overview.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/research-specifications/data-flow-overview.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/research-specifications/funds-utxo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/research-specifications/funds-utxo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/research-specifications/layers-overview.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/research-specifications/layers-overview.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/research-specifications/markers-and-marker-sequence.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/research-specifications/markers-and-marker-sequence.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/research-specifications/message-parse.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/research-specifications/message-parse.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/research-specifications/opinion-former.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/research-specifications/opinion-former.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/research-specifications/opinions.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/research-specifications/opinions.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/research-specifications/parents.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/research-specifications/parents.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/research-specifications/peer-discovery.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/research-specifications/peer-discovery.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/research-specifications/rate-control-mechanism-data-structure.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/research-specifications/rate-control-mechanism-data-structure.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/research-specifications/solidification-process.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/research-specifications/solidification-process.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/research-specifications/solidifier.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/research-specifications/solidifier.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/research-specifications/tangle-epochs.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/research-specifications/tangle-epochs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/research-specifications/tangle-time.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/research-specifications/tangle-time.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/research-specifications/tangle.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/research-specifications/tangle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/research-specifications/tip-manager.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/research-specifications/tip-manager.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +114,7 @@
       <workItem from="1634655024932" duration="28000" />
       <workItem from="1634733930914" duration="116000" />
       <workItem from="1634735012176" duration="432000" />
-      <workItem from="1634804143300" duration="1414000" />
+      <workItem from="1634804143300" duration="2676000" />
     </task>
     <task id="LOCAL-00001" summary="* Migrated to using iota-wiki-cli to have the same local setup as on the wiki&#10;* Removed deploy-docs-to-gh-pages action as we're moving to wiki.iota.org&#10;* Removed Docusaurus files which are no longer used">
       <created>1633614299967</created>
@@ -134,6 +188,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="* Migrated to using iota-wiki-cli to have the same local setup as on the wiki&#10;* Removed deploy-docs-to-gh-pages action as we're moving to wiki.iota.org&#10;* Removed Docusaurus files which are no longer used" />
     <MESSAGE value="Moved docs to base path&#10;Removed docusarus&#10;Updated sidebars.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved docs to base path&#10;Removed docusarus&#10;Updated sidebars.js" />
+    <MESSAGE value="Merge from main&#10;Moved images to top directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge from main&#10;Moved images to top directory" />
   </component>
 </project>
