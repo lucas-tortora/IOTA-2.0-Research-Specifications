@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb108c48-ec67-46d4-b546-012c04cf94c3" name="Changes" comment="Moved docs to base path&#10;Removed docusarus&#10;Updated sidebars.js" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1zBG2apwBTFMnOd3K5IYCt67bWR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../projects/IOTA-2.0-Research-Specifications" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/../../projects/IOTA-2.0-Research-Specifications" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb108c48-ec67-46d4-b546-012c04cf94c3" name="Changes" comment="" />
+      <created>1633613861065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633613861065</updated>
+      <workItem from="1633613862310" duration="463000" />
+      <workItem from="1633614563499" duration="98000" />
+      <workItem from="1634655024932" duration="28000" />
+      <workItem from="1634733930914" duration="116000" />
+      <workItem from="1634735012176" duration="432000" />
+      <workItem from="1634804143300" duration="1414000" />
+    </task>
+    <task id="LOCAL-00001" summary="* Migrated to using iota-wiki-cli to have the same local setup as on the wiki&#10;* Removed deploy-docs-to-gh-pages action as we're moving to wiki.iota.org&#10;* Removed Docusaurus files which are no longer used">
+      <created>1633614299967</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633614299967</updated>
+    </task>
+    <task id="LOCAL-00002" summary="* Migrated to using iota-wiki-cli to have the same local setup as on the wiki&#10;* Removed deploy-docs-to-gh-pages action as we're moving to wiki.iota.org&#10;* Removed Docusaurus files which are no longer used">
+      <created>1633614648814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633614648814</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Moved docs to base path&#10;Removed docusarus&#10;Updated sidebars.js">
+      <created>1634804504815</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634804504815</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="78e73f46-4266-43fd-b769-77114c2f9cbc">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/home/lucas/Documents/IOTA/forks/IOTA-2.0-Research-Specifications/static/img" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="78e73f46-4266-43fd-b769-77114c2f9cbc" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="* Migrated to using iota-wiki-cli to have the same local setup as on the wiki&#10;* Removed deploy-docs-to-gh-pages action as we're moving to wiki.iota.org&#10;* Removed Docusaurus files which are no longer used" />
+    <MESSAGE value="Moved docs to base path&#10;Removed docusarus&#10;Updated sidebars.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved docs to base path&#10;Removed docusarus&#10;Updated sidebars.js" />
+  </component>
+</project>
